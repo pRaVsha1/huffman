@@ -1,0 +1,3 @@
+/Users/pbelonogov/CLionProjects/school_archivator/cmake-build-debug/CMakeFiles/school_archivator.dir
+/Users/pbelonogov/CLionProjects/school_archivator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pbelonogov/CLionProjects/school_archivator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
